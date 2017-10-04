@@ -1,2 +1,2 @@
-# save-some-configuration
+# save-some-configurations
 backups for the double system
